@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**ririnzakiyahh/ririnzakiyahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🌱 What I'm Currently Working On
 
 - Exploring advanced data mining models for real-world applications.
@@ -10,6 +8,6 @@
 
 ## 📫 Hit me on
 
-- *Email*: marcelinohambali@gmail.com
+- *Email*: ririnzakiyahh02@gmail.com
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ririnzakiyahh&show_icons=true&theme=dark&hide=prs,issues,contribs&show=reviews&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ririnzakiyahh&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
